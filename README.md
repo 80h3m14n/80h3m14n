@@ -3,7 +3,8 @@
 
 
 
-![header](https://github.com/wekesaryan/wekesaryan/assets/113826742/4784760a-f1d6-4d3e-8b24-8b8f30e2ead9)
+<img src="images/80h3m14n-animated.svg" alt="80h3m14n hacker banner" />
+
 
 - 🔍 I’m a tech enthusiast and cyber security hobbyist. Always up for a challenge, let's link and learn together.
 - 📽️I’m currently working on creating YouTube and personal projects.
