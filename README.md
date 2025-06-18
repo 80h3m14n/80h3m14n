@@ -44,10 +44,10 @@
   <tr>
     <td><strong>🛡️ Cybersecurity</strong></td>
     <td>
-      <img src="images/kali_Linux.svg" width="40" />
-      <img src="images/ParrotOS.svg" width="40" />
+      <img src="images/kali-linux.svg" width="40" />
+      <img src="images/parrot-security.svg" width="40" />
       <img src="images/burpsuite.svg" width="40" />
-      <img src="images/metasploit.svg" width="40" />
+      <img src="images/Metasploit.svg" width="40" />
     </td>
   </tr>
   <tr>
