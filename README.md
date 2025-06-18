@@ -5,23 +5,79 @@
 
 <img src="images/80h3m14n-animated.svg" alt="80h3m14n hacker banner" />
 
+<p align="center"><strong>👨‍💻 Full-time cyber explorer | Aspiring exploit dev | Code + Chaos</strong></p>
 
-- 🔍 I’m a tech enthusiast and cyber security hobbyist. Always up for a challenge, let's link and learn together.
-- 📽️I’m currently working on creating YouTube and personal projects.
--  I’m looking forward to collaborate on YouTube & other open-source projects.
--  Not yet there, but learning something new each day.
 
----------------------------------
+![Profile views](https://komarev.com/ghpvc/?username=80h3m14n&color=blue)
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjzKmnOQPBx15aUY_gG5YBQ?style=social)
 
-  ##  My Aspirations 
-  
--  Cybersecurity Specialist to protect organizations from cyber threats and vulnerabilities.
--  AI Researcher/Engineer to developing cutting-edge AI technologies and applications.
--  Blockchain Developer to design and implement decentralized applications and smart contracts.
 
+
+
+![80h3m14n's GitHub Stats](https://github-readme-stats.vercel.app/api?username=80h3m14n&show_icons=true&theme=radical)
 
 
  -----------------------------
+
+ ## 🧪 Featured Projects
+
+- 🛰️ **Androduct Framework** — Android post-exploitation toolkit (Smali patches, ADB control, CVE injection)
+- 💀 **CodeRoaster** — An AI debugger that roasts bad code habits (sass mode + gamified)
+- 🌐 **Mass Exploitation Scanner** — CMS fingerprinting + vuln exploitation (Inspired by `blckhrtz`)
+
+
+
+
+----------------------------------------------
+
+<h2>⚒️ My Skills Set</h2>
+
+<table>
+  <tr>
+    <td><strong>☁️ Cloud</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=aws" /></td>
+  </tr>
+  <tr>
+    <td><strong>🌐 Networking</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes" /></td>
+  </tr>
+  <tr>
+    <td><strong>🛡️ Cybersecurity</strong></td>
+    <td>
+      <img src="images/kali_Linux.svg" width="40" />
+      <img src="images/ParrotOS.svg" width="40" />
+      <img src="images/burpsuite.svg" width="40" />
+      <img src="images/metasploit.svg" width="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Design</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=blender,figma" /></td>
+  </tr>
+  <tr>
+    <td><strong>💻 OS</strong></td>
+    <td>
+      <img src="images/linux.svg" width="40" />
+      <img src="images/windows.svg" width="40" />
+      <img src="images/android.svg" width="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>👨‍💻 Dev</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,html,css,js,python,java,cs,go,rust,flutter,kotlin,react,solidity,anaconda,bash,firebase,mongodb,postgres,mysql" />
+    </td>
+  </tr>
+</table>
+
+
+
+                  
+
+
+
+
+-----------------------------
  
 ## 🌐 Connect With Me
 
@@ -31,7 +87,6 @@
   <img src="images/twitter_x.svg" alt="X formerly TWITTER" width="70" height="50">
 </a>
 
-
  <a href="https://linkedin.com/ryan-wekesa254">
   <img src="images/linkedin.svg" alt="LINKEDIN" width="70" height="50">
 </a>
@@ -40,6 +95,7 @@
 <a href="https://bsky.app/profile/vexryan.bsky.social">
   <img src="images/bluesky.svg" alt="BLUESKY" width="70" height="50">
 </a>
+
 
 <a href="https://www.youtube.com/channel/UCjzKmnOQPBx15aUY_gG5YBQ">
   <img src="images/YouTube.png" alt="YOUTUBE" width="70" height="50">
@@ -55,86 +111,6 @@
 </p>
 
 I'd love to connect on social media. Let's chat about Artificial intelligence, Software development, cyber security, and blockchain technology! 💬
-
-
-----------------------------------------------
-  
-
-# ⚒️My skills-set
-
-## Cloud Computing
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
-</p>
-
-
-## Computer Networking
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker" alt="" width="70" height="50" />
-  </a>
-</p>
-
-## Cybersecurity
-
-<p>
-  <a href="https://www.kali.org/get-kali/">
-    <img src="images/kali_Linux.svg" alt="Kali Linux" width="70" height="50" />
-  </a>
-
-
-  <a href="https://parrotsec.org/download/">
-    <img src="images/ParrotOS.svg" alt="Parrot OS" width="70" height="50"  />
-  </a>
-
-
-  <a href="https://portswigger.net/burp/communitydownload">
-    <img src="images/burpsuite.svg" alt="Burp Suite" width="70" height="50" />
-  </a>
-
-
- <a href="https://www.metasploit.com/download">
-    <img src="images/metasploit.svg" alt="Metasploit Framework" width="70" height="50" />
-  </a>
-</p>
-
-
-## Graphics Design (Part time)
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,figma" />
-  </a>
-</p>
-
-
-## Operating Systems
-<p>
-  <a href="https://www.linux.org/">
-    <img src="images/linux.svg" alt="Linux" width="70" height="50" />
-  </a>
-
-  <a href="https://www.microsoft.com/en-us/software-download/windows11">
-    <img src="images/windows.svg" alt="Microsoft Windows" width="70" height="50" />
-  </a>
-
-  <a href="https://www.android.com/">
-    <img src="images/android.svg" alt="Google Android" width="70" height="50" />
-  </a>
-</p>
-
-
-## Software Development
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,python,java,cs,go,rust,flutter,kotlin,react,solidity,anaconda,bash,firebase,mongodb,postgres,mysql" />
-  </a>
-</p>                    
-
-
 
 
 
