@@ -1,0 +1,39 @@
+<svg width="100%" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .main-text {
+      font-family: monospace;
+      font-size: 36px;
+      fill: #00ff88;
+      animation: blink 1s steps(2, start) infinite;
+    }
+
+    .subtitle {
+      font-family: monospace;
+      font-size: 12px;
+      fill: #44ffcc;
+      animation: glitch 2s infinite;
+    }
+
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      51%, 100% { opacity: 0; }
+    }
+
+    @keyframes glitch {
+      0%   { transform: translateX(0); }
+      20%  { transform: translateX(-1px); }
+      40%  { transform: translateX(1px); }
+      60%  { transform: translateX(-1px); }
+      80%  { transform: translateX(1px); }
+      100% { transform: translateX(0); }
+    }
+  </style>
+
+  <rect width="800" height="100" fill="#0f0f0f"/>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="main-text">
+    [ 80h3m14n ]
+  </text>
+  <text x="50%" y="80%" text-anchor="middle" class="subtitle">
+    C0d3r | 3xp10it D3v | R3v3rs3 Eng1n33r
+  </text>
+</svg>
