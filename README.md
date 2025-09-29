@@ -65,7 +65,7 @@
   <tr>
     <td><strong>👨‍💻 Dev</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,html,css,js,python,java,cs,go,rust,flutter,kotlin,react,solidity,anaconda,bash,firebase,mongodb,postgres,mysql" />
+      <img src="https://skillicons.dev/icons?i=python,rust,cpp,go,java,cs,flutter,kotlin,react,solidity,bash,firebase,mongodb,postgres,mysql,git,html,css,js" />
     </td>
   </tr>
 </table>
@@ -85,10 +85,6 @@
 <p>                                        
 <a href="https://x.com/8Oh3m14n">
   <img src="images/twitter_x.svg" alt="X formerly TWITTER" width="70" height="50">
-</a>
-
- <a href="https://linkedin.com/ryan-wekesa254">
-  <img src="images/linkedin.svg" alt="LINKEDIN" width="70" height="50">
 </a>
 
 
@@ -118,6 +114,6 @@ I'd love to connect on social media. Let's chat about Artificial intelligence, S
 
 # 💪Collaboration
 
-I'm always open to collaborations and knowledge sharing. Feel free to connect with me and let's make the digital world safer! 🚀
+> I'm always open to collaborations and knowledge sharing. Feel free to connect with me and let's make the digital world safer! 🚀
 
   
