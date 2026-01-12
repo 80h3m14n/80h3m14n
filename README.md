@@ -1,8 +1,6 @@
 <h1 style="text-align: center;">About Me</h1>                                             
   
 
-
-
 <img src="images/80h3m14n-animated.svg" alt="80h3m14n hacker banner" />
 
 <p align="center"><strong>👨‍💻 Full-time cyber explorer | Aspiring exploit dev | Code + Chaos</strong></p>
@@ -11,19 +9,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=80h3m14n&color=blue)
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjzKmnOQPBx15aUY_gG5YBQ?style=social)
 
-
-
-
-![80h3m14n's GitHub Stats](https://github-readme-stats.vercel.app/api?username=80h3m14n&show_icons=true&theme=radical)
-
-
- -----------------------------
-
- ## 🧪 Featured Projects
-
-- 🛰️ **Androduct Framework** — Android post-exploitation toolkit (Smali patches, ADB control, CVE injection)
-- 💀 **CodeRoaster** — An AI debugger that roasts bad code habits (sass mode + gamified)
-- 🌐 **Mass Exploitation Scanner** — CMS fingerprinting + vuln exploitation (Inspired by `blckhrtz`)
 
 
 
