@@ -49,7 +49,7 @@
   <tr>
     <td><strong>👨‍💻 Dev</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,rust,cpp,go,cs,js,flutter,kotlin,solidity,bash,firebase,mongodb,postgres,mysql" />
+      <img src="https://skillicons.dev/icons?i=python,rust,cpp,go,cs,js,typescript,flutter,kotlin,solidity,bash,firebase,mongodb,postgres,mysql" />
     </td>
   </tr>
 </table>
