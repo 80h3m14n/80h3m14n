@@ -11,9 +11,8 @@
 
 
 
+&nbsp;
 
-
-----------------------------------------------
 
 <h2>⚒️ My Skills Set</h2>
 
@@ -50,20 +49,17 @@
   <tr>
     <td><strong>👨‍💻 Dev</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,rust,cpp,go,java,cs,flutter,kotlin,react,solidity,bash,firebase,mongodb,postgres,mysql,git,html,css,js" />
+      <img src="https://skillicons.dev/icons?i=python,rust,cpp,go,cs,js,flutter,kotlin,solidity,bash,firebase,mongodb,postgres,mysql" />
     </td>
   </tr>
 </table>
 
 
 
-                  
+&nbsp;
 
 
 
-
------------------------------
- 
 ## 🌐 Connect With Me
 
                  
@@ -91,14 +87,18 @@
 </a>                
 </p>
 
+
+
 I'd love to connect on social media. Let's chat about Artificial intelligence, Software development, cyber security, and blockchain technology! 💬
 
 
+&nbsp;
 
--------------------------
 
-# 💪Collaboration
+## 💪Collaboration
 
 > I'm always open to collaborations and knowledge sharing. Feel free to connect with me and let's make the digital world safer! 🚀
+
+
 
   
