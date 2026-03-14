@@ -8,6 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=80h3m14n&color=blue)
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjzKmnOQPBx15aUY_gG5YBQ?style=social)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/80h3m14n/Utilix)
 
 
 
