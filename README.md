@@ -1,5 +1,6 @@
 <h1 style="text-align: center;">About Me</h1>                                             
-  
+
+A tech enthusiast and cybersecurity hobbyist.
 
 <img src="images/80h3m14n-animated.svg" alt="80h3m14n hacker banner" />
 
@@ -14,7 +15,9 @@
 &nbsp;
 
 
-<h2>⚒️ My Skills Set</h2>
+<h2>My skills set</h2>
+
+While techniques provide the strategic direction and methodological approach, tools serve as the mechanical leverage that makes executing those techniques faster, more precise, and capable of handling greater complexity.
 
 <table>
   <tr>
@@ -49,7 +52,7 @@
   <tr>
     <td><strong>👨‍💻 Dev</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,rust,cpp,go,cs,js,typescript,flutter,kotlin,solidity,bash,firebase,mongodb,postgres,mysql" />
+      <img src="https://skillicons.dev/icons?i=bash,cs,cpp,go,js,kotlin,python,rust,firebase,mongodb,mysql,postgres" />
     </td>
   </tr>
 </table>
@@ -60,19 +63,18 @@
 
 
 
-## 🌐 Connect With Me
+## Connect with me
 
-                 
+If interested, we can connect on social media through my following handles:
+
 <p>                                        
 <a href="https://x.com/8Oh3m14n">
   <img src="images/twitter_x.svg" alt="X formerly TWITTER" width="70" height="50">
 </a>
 
-
 <a href="https://bsky.app/profile/vexryan.bsky.social">
   <img src="images/bluesky.svg" alt="BLUESKY" width="70" height="50">
 </a>
-
 
 <a href="https://www.youtube.com/channel/UCjzKmnOQPBx15aUY_gG5YBQ">
   <img src="images/YouTube.png" alt="YOUTUBE" width="70" height="50">
@@ -87,15 +89,13 @@
 </a>                
 </p>
 
-
-
-I'd love to connect on social media. Let's chat about Artificial intelligence, Software development, cyber security, and blockchain technology! 💬
+Let's talk about Artificial Intelligence, software development, cyber security, and blockchain technology! 💬
 
 
 &nbsp;
 
 
-## 💪Collaboration
+## Collaboration
 
 > I'm always open to collaborations and knowledge sharing. Feel free to connect with me and let's make the digital world safer! 🚀
 
