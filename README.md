@@ -8,7 +8,7 @@ A tech enthusiast and cybersecurity hobbyist.
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=80h3m14n&color=blue)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/80h3m14n/)
+[![DeepWiki](https://img.shields.io/badge/DeepWiki-80h3m14n-blue)](https://deepwiki.com/80h3m14n/)
 
 
 
