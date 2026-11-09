@@ -68,7 +68,7 @@ While techniques provide the strategic direction and methodological approach, to
 If interested, we can connect on social media through my following handles:
 
 <p>                                        
-<a href="https://x.com/8Oh3m14n">
+<a href="https://x.com/80h3m14n">
   <img src="images/twitter_x.svg" alt="X formerly TWITTER" width="70" height="50">
 </a>
 
@@ -84,12 +84,12 @@ If interested, we can connect on social media through my following handles:
   <img src="images/discord.svg" alt="DISCORD" width="70" height="50">
 </a>
 
-<a href="https://t.me/techtrendskenya">
+<a href="https://t.me/kenya_tech_hub">
   <img src="images/telegram.svg" alt="TELEGRAM" width="70" height="50">
 </a>                
 </p>
 
-Let's talk about Artificial Intelligence, software development, cyber security, and blockchain technology! 💬
+Let's talk about cyber security, Artificial Intelligence security, secure software development, cloud security and blockchain technology! 💬
 
 
 &nbsp;
