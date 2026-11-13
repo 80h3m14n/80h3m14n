@@ -26,7 +26,10 @@ While techniques provide the strategic direction and methodological approach, to
   </tr>
   <tr>
     <td><strong>🌐 Networking</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes," />
+      <img src="images/wireshark.svg" width="40" />
+    </td>
   </tr>
   <tr>
     <td><strong>🛡️ Cybersecurity</strong></td>
@@ -35,6 +38,8 @@ While techniques provide the strategic direction and methodological approach, to
       <img src="images/parrot-security.svg" width="40" />
       <img src="images/burpsuite.svg" width="40" />
       <img src="images/Metasploit.svg" width="40" />
+      <img src="images/ghidra.svg" width="40" />
+      <img src="images/autopsy.svg" width="40" />
     </td>
   </tr>
   <tr>
