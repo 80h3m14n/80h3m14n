@@ -27,7 +27,7 @@ While techniques provide the strategic direction and methodological approach, to
   <tr>
     <td><strong>🌐 Networking</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes," />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
       <img src="images/wireshark.svg" width="40" />
     </td>
   </tr>
